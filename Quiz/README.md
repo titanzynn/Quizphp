@@ -5,7 +5,7 @@ O objetivo é praticar **lógica de programação, estruturas condicionais, loop
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Exibe perguntas com múltipla escolha.
 - Verifica automaticamente as respostas.
 - Calcula e mostra a pontuação final.
